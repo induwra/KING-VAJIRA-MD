@@ -17,7 +17,7 @@ global.THUMB_IMAGE = process.env.THUMB_IMAGE || ''
 module.exports = {
   botname:   process.env.BOT_NAME === undefined ? '𝐁𝐨𝐭' : process.env.BOT_NAME,
   ownername: process.env.OWNER_NAME ===  undefined? 'induwara' : process.env.OWNER_NAME,
-  sessionName:  process.env.SESSION_ID === undefined ? '' : process.env.SESSION_ID,INDUWARA;;;HookedSimple
+  sessionName:  process.env.SESSION_ID === undefined ? '𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=2vR3Babb#YrLtZMfQ1JHYyfck1kwOSXWHRaUcKX4zB5Thfzi9yP4' : process.env.SESSION_ID,INDUWARA;;;HookedSimple
   author:  process.env.PACK_INFO.split(";")[0] === undefined ? 'alex' : process.env.PACK_INFO.split(";")[0],
   auto_read_status :  process.env.AUTO_READ_STATUS === undefined ? false : process.env.AUTO_READ_STATUS,
   packname:  process.env.PACK_INFO.split(";")[1] === undefined ? 'induwara-Md' : process.env.PACK_INFO.split(";")[1],

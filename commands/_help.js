@@ -67,7 +67,7 @@ Secktor.cmd({
 📃 Mem:- ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}»
 🕐 Time:- ${time}»
 🗓️ Date:- ${date}»
-⦁─😈𝙆𝙄𝙉𝙂-𝙑𝘼𝙅𝙄𝙍𝘼-𝙈𝘿😈─⦁\n
+⦁─😈𝙆𝙄𝙉𝙂-IINDUWARA-𝙈𝘿😈─⦁\n
 ` + '```'
                 for (const category in cmds) 
                 {
@@ -126,7 +126,7 @@ for (let i = 0; i < commands.length; i++)
     )
     //---------------------------------------------------------------------------
 Secktor.cmd({
-        pattern: "owner",
+        pattern: "owener",
         desc: "To find owner number",
         category: "general",
         react: "🧑‍💻",

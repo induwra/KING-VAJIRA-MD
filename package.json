@@ -68,12 +68,4 @@
  "devDependencies": {
   "pino": "^7.0.5"
  },
- "repository": {
-  "type": "git",
-  "url": "git+https://github.com/vajirabot1/KING-VAJIRA-MD.git"
- },
- "bugs": {
-  "url": "https://github.com/vajirabot1/KING-VAJIRA-MD/issues"
- },
- "homepage": "https://github.com/vajirabot1/KING-VAJIRA-MD#readme"
-}
+
